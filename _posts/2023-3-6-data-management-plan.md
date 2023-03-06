@@ -9,4 +9,5 @@ has a specific intended usage as follows:
 - iCloud: master repository of all analysis data; perform monthly backup to hard disk
 - OneDrive: store large datasets and intermediate files used for day-to-day analyses
 - GitHub: document and organise day-to-day analyses; lab notebook 
+
 ![_config.yml]({{ site.baseurl }}/images/config.png)
