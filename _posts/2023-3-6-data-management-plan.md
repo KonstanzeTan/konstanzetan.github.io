@@ -11,3 +11,6 @@ has a specific intended usage as follows:
 - GitHub: document and organise day-to-day analyses; lab notebook 
 
 ![Schematic of data management plan]({{ site.baseurl }}/images/2023-3-6-data-management-plan-1.png)
+
+The hierarchy of folders is as follows: 
+![Hierarchy of folders]({{ site.baseurl }}/images/2023-3-6-data-management-plan-2)
