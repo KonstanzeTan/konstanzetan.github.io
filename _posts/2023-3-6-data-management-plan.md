@@ -10,4 +10,4 @@ has a specific intended usage as follows:
 - OneDrive: store large datasets and intermediate files used for day-to-day analyses
 - GitHub: document and organise day-to-day analyses; lab notebook 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![Schematic of data management plan]({{ site.baseurl }}/images/2023-3-6-data-management-plan-1.png)
