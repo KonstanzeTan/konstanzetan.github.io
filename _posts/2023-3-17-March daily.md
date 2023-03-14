@@ -41,3 +41,18 @@ genes for DCM were determined and to (B) find papers to extract gene lists from.
 for assessing suitability of papers and tried it out on Dellefave Castillo et al. 
 
 
+## 2023-03-14 Tuesday
+
+### 1. Read and collated gene lists for candidate gene analysis from 2 DCM genetics papers: 
+- largest GWAS by Garnier et al. 2021
+- phenotypic refinement by Aragam et al. 2019
+Both papers were chosen for sample size; i.e. having largest DCM cohorts
+
+### 2. Git versioning tutorial with Irfan
+Notes and useful commands: /Users/konstanzetan/Desktop/PhD/Learning/Git\ /2023-03-14\ Irfan\ versioning.txt 
+Learnt about purpose and method of creating branches, sequence of committing edits, meaning 
+of pull requests. Add version header to start of new scripts. Branches used for feature development 
+
+### 3. Revise paper selection for candidate gene analysis: using Garnier et al. 2021 and 
+Aragam et al. 2019 to prioritise papers. Strategy: "cast nets wide" to include as many 
+genomic regions as possible, increasing likelihood of including required CpGs.
