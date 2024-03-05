@@ -9,4 +9,4 @@ categories: github, website
 
 other text.
 
-[Link](www.google.com)
+[Link] (www.google.com)
