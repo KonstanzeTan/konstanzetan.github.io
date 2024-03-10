@@ -19,7 +19,7 @@ This workflow is largely based on an excellent, easy-to-follow YouTube tutorial 
 
 
 5. Enter the newly-forked repository and rename it.  after this step, people should be able to access your website at your given URL. 
-	- Click on ‘Settings’, then change the name of this repository to <username>.github.io	
+	- Click on ‘Settings’, then change the name of this repository to <username>.github.io.
 ![change repository name](/assets/photos/2_change_repo_name.png)
 
 
