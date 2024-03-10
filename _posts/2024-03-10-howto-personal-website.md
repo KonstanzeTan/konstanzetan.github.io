@@ -20,10 +20,12 @@ This workflow is largely based on an excellent, easy-to-follow YouTube tutorial 
 
 5. Enter the newly-forked repository and rename it.  after this step, people should be able to access your website at your given URL. 
 	- Click on ‘Settings’, then change the name of this repository to <username>.github.io.
+
 ![change_repository_name](/assets/photos/2_change_repo_name.png)
 
 
 	- Edit the repository details by navigating back to the main page of the repository, then clicking on ‘About’. In the popup window, edit the ‘Description’ and ‘Website’ fields. The website URL needs to follow this format: https://<yourusername>.github.io. ⚠️ It’s SUPER IMPORTANT to adhere to this URL format as this is what GitHub recognises to successfully build your website. Checking the ‘Use your GitHub Pages website’ box will automatically generate the correct URL.
+
 ![edit_repo_details](/assets/photos/3_edit_repo_details.png)
 
 
