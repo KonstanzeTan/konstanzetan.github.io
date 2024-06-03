@@ -1,0 +1,33 @@
+﻿@article{RN458,
+   author = {Tan, K. and Foo, R. and Loh, M.},
+   title = {Cardiomyopathy in Asian Cohorts: Genetic and Epigenetic Insights},
+   journal = {Circ Genom Precis Med},
+   volume = {16},
+   number = {5},
+   pages = {496-506},
+   note = {Tan, Konstanze
+Foo, Roger
+Loh, Marie
+eng
+Review
+2023/08/17
+Circ Genom Precis Med. 2023 Oct;16(5):496-506. doi: 10.1161/CIRCGEN.123.004079. Epub 2023 Aug 17.},
+   abstract = {Previous studies on cardiomyopathies have been particularly valuable for clarifying pathological mechanisms in heart failure, an etiologically heterogeneous disease. In this review, we specifically focus on cardiomyopathies in Asia, where heart failure is particularly pertinent. There has been an increase in prevalence of cardiomyopathies in Asia, in sharp contrast with the decline observed in Western countries. Indeed, important disparities in cardiomyopathy incidence, clinical characteristics, and prognosis have been reported in Asian versus White cohorts. These have been accompanied by emerging descriptions of a distinct rare and common genetic basis for disease among Asian cardiomyopathy patients marked by an increased burden of variants with uncertain significance, reclassification of variants deemed pathogenic based on evidence from predominantly White cohorts, and the discovery of Asian-specific cardiomyopathy-associated loci with underappreciated pathogenicity under conventional classification criteria. Findings from epigenetic studies of heart failure, particularly DNA methylation studies, have complemented genetic findings in accounting for the phenotypic variability in cardiomyopathy. Though extremely limited, findings from Asian ancestry-focused DNA methylation studies of cardiomyopathy have shown potential to contribute to general understanding of cardiomyopathy pathophysiology by proposing disease and cause-relevant pathophysiological mechanisms. We discuss the value of multiomics study designs incorporating genetic, methylation, and transcriptomic information for future DNA methylation studies in Asian cardiomyopathy cohorts to yield Asian ancestry-specific insights that will improve risk stratification in the Asian population.},
+   keywords = {Humans
+*Cardiomyopathies/genetics/pathology
+*Heart Failure/genetics
+DNA Methylation
+Prognosis
+Epigenesis, Genetic
+Asia
+cardiomyopathies
+heart failure
+prevalence},
+   ISSN = {2574-8300 (Electronic)
+2574-8300 (Linking)},
+   DOI = {10.1161/CIRCGEN.123.004079},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/37589150},
+   year = {2023},
+   type = {Journal Article}
+}
+
