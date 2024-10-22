@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: sonika-agarwal-cwFSl8pkrH4-unsplash.jpeg
           filters:
             brightness: 1.0
           size: cover
