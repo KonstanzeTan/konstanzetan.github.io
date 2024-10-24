@@ -64,3 +64,6 @@ extensions:
   academicons:
     enable: true
 
+# Plugins
+plugins_css = ["custom"]
+
