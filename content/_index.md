@@ -3,7 +3,7 @@
 title: ""
 date: 2022-10-24
 type: landing
-font: san francisco
+font: Arial
 
 design:
   # Default section spacing
