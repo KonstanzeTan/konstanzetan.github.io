@@ -26,8 +26,6 @@ sections:
         gradient_end: '#2b94c3'
         # The gradient angle from 0-360 degrees
         gradient_angle: 180
-        # Text color (true=light, false=dark, or remove for the dynamic theme color).
-        text_color_light: true
         # image:
           # Add your image background to `assets/media/`.
           # filename: sonika-agarwal-cwFSl8pkrH4-unsplash.jpeg
@@ -36,6 +34,8 @@ sections:
           # size: cover
           # position: center
           # parallax: false
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
 
   - block: markdown
     content:
