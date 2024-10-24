@@ -22,14 +22,15 @@ sections:
       css_class: dark
       background:
         color: black
-        image:
+        # image:
           # Add your image background to `assets/media/`.
-          filename: sonika-agarwal-cwFSl8pkrH4-unsplash.jpeg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+          # filename: sonika-agarwal-cwFSl8pkrH4-unsplash.jpeg
+          # filters:
+            # brightness: 1.0
+          # size: cover
+          # position: center
+          # parallax: false
+
   - block: markdown
     content:
       title: '📚 My Research'
