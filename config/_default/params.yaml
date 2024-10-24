@@ -58,3 +58,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Enable academic icons
+extensions:
+  academicons:
+    enable: true
+
