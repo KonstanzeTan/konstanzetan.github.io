@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'san francisco';
+  font-style: normal;
+  font-weight: 400;
+  src: local('san francisco'), url('fonts/SF-Pro.ttf');
+}
