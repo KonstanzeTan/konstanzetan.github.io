@@ -22,8 +22,8 @@ sections:
       css_class: dark
       background:
         # color: orange
-        gradient_start: '#4bb4e3'
-        gradient_end: '#2b94c3'
+        gradient_start: '#f5b371'
+        gradient_end: '#e88a2c'
         # The gradient angle from 0-360 degrees
         gradient_angle: 180
         # image:
