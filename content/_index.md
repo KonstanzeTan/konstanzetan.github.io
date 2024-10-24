@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: orange
         # image:
           # Add your image background to `assets/media/`.
           # filename: sonika-agarwal-cwFSl8pkrH4-unsplash.jpeg
